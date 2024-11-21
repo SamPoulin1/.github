@@ -10,3 +10,7 @@ this should be completed by Ael, Miguel and Logan
 5. Type **brew --version**. If you successfully installed homebrew, you will see its version number appear.
 6. Now install **git** by typing **brew install git**
 7. Type **git --version**. Again, if successful, you will see the version number for git.
+# Become a GitHub user
+If you are already here, you probably already have a username and password for GitHub. If not, get one!
+# Connect PyCharm to Git
+Look at the menu at the top of PyCharm: if you see VCS (which stands for Version Control System), open that menu and follow the prompts to create a GitHub repository. If PyCharm does not recognize that Git is installed, restart PyCharm.
