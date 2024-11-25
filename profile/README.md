@@ -1,7 +1,7 @@
 # Dr. Nielsen's AP Computer Science classroom repository
 created with the help of Ael, Miguel, Logan, Gabby, Josh, Maggie and Sam
 # Installing Git on Windows devices
-this should be completed by Ael, Miguel and Logan
+this should be completed by Ael, Miguel and Sam
 # Installing Git on MacBook devices
 1. Easiest and simplest method for installing Git is to use a package manager. We will use **homebrew**. To install homebrew, go [here](https://github.com/Homebrew/brew/releases/) and click on **latest**.
 2. At the bottom of the page you will find a **.pkg** file in the **assets** section. Download the file.
