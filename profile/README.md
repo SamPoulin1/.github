@@ -14,3 +14,4 @@ this should be completed by Ael, Miguel and Sam
 If you are already here, you probably already have a username and password for GitHub. If not, get one!
 # Connect PyCharm to Git
 Look at the menu at the top of PyCharm: if you see VCS (which stands for Version Control System), open that menu and follow the prompts to create a GitHub repository. If PyCharm does not recognize that Git is installed, restart PyCharm.
+bob the builder is great
